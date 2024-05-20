@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>First Project</title>
+</head>
+<body>
+<p> It is my first CI/CD project </p>
+</body>
+</html>
